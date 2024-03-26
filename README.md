@@ -1,8 +1,8 @@
-# Hospital Patient App
-**Project Description: Patient Hospital Records App**
+# Hospital Patient API
+**Project Description: Patient Hospital Records API**
 
 **Overview:**
-The Patient Hospital Records App is a comprehensive software solution designed to manage patient records within hospital systems efficiently. It offers functionalities to store, retrieve, update, and analyze patient data securely. The application is built with versatility in mind, utilizing MySQL database for production environments and H2 database for testing purposes. It seamlessly integrates with Artemis MQ 5 for reliable messaging across the system.
+The Patient Hospital Records API is designed to manage patient records and hospitals. It offers functionalities to store, retrieve, update, and delete patient data. It is built with versatility in mind, utilizing MySQL database for production environments and H2 database for testing purposes. It seamlessly integrates with Artemis MQ 5 for reliable messaging across the system.
 
 **Key Features:**
 
